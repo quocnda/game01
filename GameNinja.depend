@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1677590348 source:d:\c++\gameninja\baseobject.cpp
+	"BaseObject.h"
+
+1677588522 source:d:\c++\gameninja\commonfunc.cpp
+	"CommonFunc.h"
+
+1677634335 d:\c++\gameninja\commonfunc.h
+	<SDL_image.h>
+	<SDL.h>
+	<iostream>
+
+1677639036 source:d:\c++\gameninja\main.cpp
+	"CommonFunc.h"
+	"BaseObject.h"
+	"MainObject.h"
+
+1677590348 d:\c++\gameninja\baseobject.h
+	"CommonFunc.h"
+
+1677637158 source:d:\c++\gameninja\mainobject.cpp
+	"MainObject.h"
+
+1677638407 d:\c++\gameninja\mainobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
